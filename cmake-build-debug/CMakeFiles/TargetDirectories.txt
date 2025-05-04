@@ -1,0 +1,3 @@
+C:/Users/giova/OneDrive/Documents/ws-Clion/zoologico/cmake-build-debug/CMakeFiles/zoologico.dir
+C:/Users/giova/OneDrive/Documents/ws-Clion/zoologico/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/giova/OneDrive/Documents/ws-Clion/zoologico/cmake-build-debug/CMakeFiles/rebuild_cache.dir
